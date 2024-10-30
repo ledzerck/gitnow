@@ -9,5 +9,5 @@ bool getBit(int num, int i) {
 ```
 
 Código en linea
-1. `git init`
+1. `git init`{:.git}
 2. `git push -u origin main`
